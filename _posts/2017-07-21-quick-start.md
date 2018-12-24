@@ -10,7 +10,7 @@ comments: true
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <p align="center">
-  <img src="https://deadbeef.me/paper-jekyll-theme/assets/paper-cover-photo.png">
+  <img src="https://blog.pricecheck.co.za/wp-content/uploads/2017/06/original_images-Android-1.png">
   <p align="center">
      A minimalistic Jekyll Theme
      <br>
