@@ -1,15 +1,15 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "App Developers Journey"
 description: > 
-  Write a description of your website here.
+  All things I am doing to learn Android App Development
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Ashish Kharche
+email: appdevelopersjourney@gmail.com 
+#twitter_username: _HairForceOne
+github_username: appdevelopersjourney
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+#url: "https://deadbeef.me" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
